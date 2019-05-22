@@ -1,13 +1,13 @@
 {
   "main.css": "/slow-to-load/static/css/main.5a54f17e.chunk.css",
-  "main.js": "/slow-to-load/static/js/main.beca0d52.chunk.js",
-  "main.js.map": "/slow-to-load/static/js/main.beca0d52.chunk.js.map",
+  "main.js": "/slow-to-load/static/js/main.10f096cd.chunk.js",
+  "main.js.map": "/slow-to-load/static/js/main.10f096cd.chunk.js.map",
   "runtime~main.js": "/slow-to-load/static/js/runtime~main.c39e1999.js",
   "runtime~main.js.map": "/slow-to-load/static/js/runtime~main.c39e1999.js.map",
   "static/js/2.6b7cf9eb.chunk.js": "/slow-to-load/static/js/2.6b7cf9eb.chunk.js",
   "static/js/2.6b7cf9eb.chunk.js.map": "/slow-to-load/static/js/2.6b7cf9eb.chunk.js.map",
   "index.html": "/slow-to-load/index.html",
-  "precache-manifest.e3a6ae2cf593a25263b118ceb05a64c1.js": "/slow-to-load/precache-manifest.e3a6ae2cf593a25263b118ceb05a64c1.js",
+  "precache-manifest.82708d3ba06ffe0d8e59f92d0e3cc0a4.js": "/slow-to-load/precache-manifest.82708d3ba06ffe0d8e59f92d0e3cc0a4.js",
   "service-worker.js": "/slow-to-load/service-worker.js",
   "static/css/main.5a54f17e.chunk.css.map": "/slow-to-load/static/css/main.5a54f17e.chunk.css.map"
 }
